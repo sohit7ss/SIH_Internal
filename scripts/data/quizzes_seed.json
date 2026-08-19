@@ -1,0 +1,3337 @@
+[
+  {
+    "id": "Q001",
+    "subject": "Data Structures and Algorithms",
+    "chapter": "Arrays",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Arrays (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Arrays (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Arrays (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Arrays (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Arrays (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-13T23:59:00Z"
+  },
+  {
+    "id": "Q002",
+    "subject": "Data Structures and Algorithms",
+    "chapter": "Linked Lists",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Linked Lists (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Linked Lists (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Linked Lists (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Linked Lists (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Linked Lists (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Linked Lists (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Linked Lists (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Linked Lists (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Linked Lists (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-13T23:59:00Z"
+  },
+  {
+    "id": "Q003",
+    "subject": "Data Structures and Algorithms",
+    "chapter": "Stacks",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Stacks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Stacks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Stacks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Stacks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Stacks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Stacks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Stacks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-17T23:59:00Z"
+  },
+  {
+    "id": "Q004",
+    "subject": "Data Structures and Algorithms",
+    "chapter": "Queues",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Queues (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Queues (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Queues (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Queues (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Queues (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Queues (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Queues (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-17T23:59:00Z"
+  },
+  {
+    "id": "Q005",
+    "subject": "Data Structures and Algorithms",
+    "chapter": "Trees",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Trees (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Trees (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Trees (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Trees (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Trees (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Trees (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Trees (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Trees (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-21T23:59:00Z"
+  },
+  {
+    "id": "Q006",
+    "subject": "Data Structures and Algorithms",
+    "chapter": "Searching and Sorting",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Searching and Sorting (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Searching and Sorting (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Searching and Sorting (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Searching and Sorting (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Searching and Sorting (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Searching and Sorting (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Searching and Sorting (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Searching and Sorting (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-22T23:59:00Z"
+  },
+  {
+    "id": "Q007",
+    "subject": "Object Oriented Programming",
+    "chapter": "Classes and Objects",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Classes and Objects (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Classes and Objects (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Classes and Objects (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Classes and Objects (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Classes and Objects (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Classes and Objects (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Classes and Objects (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Classes and Objects (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Classes and Objects (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-14T23:59:00Z"
+  },
+  {
+    "id": "Q008",
+    "subject": "Object Oriented Programming",
+    "chapter": "Constructors",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Constructors (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Constructors (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Constructors (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Constructors (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Constructors (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Constructors (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Constructors (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Constructors (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Constructors (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-14T23:59:00Z"
+  },
+  {
+    "id": "Q009",
+    "subject": "Object Oriented Programming",
+    "chapter": "Inheritance",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Inheritance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Inheritance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Inheritance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Inheritance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Inheritance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Inheritance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-16T23:59:00Z"
+  },
+  {
+    "id": "Q010",
+    "subject": "Object Oriented Programming",
+    "chapter": "Polymorphism",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Polymorphism (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Polymorphism (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Polymorphism (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Polymorphism (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Polymorphism (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Polymorphism (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Polymorphism (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Polymorphism (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-19T23:59:00Z"
+  },
+  {
+    "id": "Q011",
+    "subject": "Object Oriented Programming",
+    "chapter": "Encapsulation",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Encapsulation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Encapsulation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Encapsulation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Encapsulation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Encapsulation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Encapsulation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Encapsulation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-22T23:59:00Z"
+  },
+  {
+    "id": "Q012",
+    "subject": "Object Oriented Programming",
+    "chapter": "Exception Handling",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Exception Handling (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Exception Handling (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Exception Handling (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Exception Handling (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Exception Handling (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Exception Handling (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Exception Handling (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-22T23:59:00Z"
+  },
+  {
+    "id": "Q013",
+    "subject": "Database Management Systems",
+    "chapter": "ER Model",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on ER Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on ER Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on ER Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on ER Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on ER Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on ER Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-15T23:59:00Z"
+  },
+  {
+    "id": "Q014",
+    "subject": "Database Management Systems",
+    "chapter": "Relational Model",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Relational Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Relational Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Relational Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Relational Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Relational Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Relational Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Relational Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Relational Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Relational Model (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-16T23:59:00Z"
+  },
+  {
+    "id": "Q015",
+    "subject": "Database Management Systems",
+    "chapter": "SQL",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on SQL (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on SQL (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on SQL (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on SQL (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on SQL (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on SQL (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on SQL (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on SQL (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on SQL (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-17T23:59:00Z"
+  },
+  {
+    "id": "Q016",
+    "subject": "Database Management Systems",
+    "chapter": "Normalization",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Normalization (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Normalization (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Normalization (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Normalization (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Normalization (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-19T23:59:00Z"
+  },
+  {
+    "id": "Q017",
+    "subject": "Database Management Systems",
+    "chapter": "Transactions",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Transactions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Transactions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Transactions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Transactions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Transactions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Transactions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-22T23:59:00Z"
+  },
+  {
+    "id": "Q018",
+    "subject": "Database Management Systems",
+    "chapter": "Indexing",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Indexing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Indexing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Indexing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Indexing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Indexing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Indexing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Indexing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Indexing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-11T23:59:00Z"
+  },
+  {
+    "id": "Q019",
+    "subject": "Computer Networks",
+    "chapter": "Network Models",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Network Models (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Network Models (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Network Models (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Network Models (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Network Models (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Network Models (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Network Models (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Network Models (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-14T23:59:00Z"
+  },
+  {
+    "id": "Q020",
+    "subject": "Computer Networks",
+    "chapter": "TCP/IP",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on TCP/IP (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on TCP/IP (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on TCP/IP (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on TCP/IP (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on TCP/IP (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on TCP/IP (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on TCP/IP (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on TCP/IP (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on TCP/IP (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-18T23:59:00Z"
+  },
+  {
+    "id": "Q021",
+    "subject": "Computer Networks",
+    "chapter": "IP Addressing",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on IP Addressing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on IP Addressing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on IP Addressing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on IP Addressing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on IP Addressing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on IP Addressing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-19T23:59:00Z"
+  },
+  {
+    "id": "Q022",
+    "subject": "Computer Networks",
+    "chapter": "Routing",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Routing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Routing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Routing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Routing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Routing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Routing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Routing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Routing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Routing (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-21T23:59:00Z"
+  },
+  {
+    "id": "Q023",
+    "subject": "Computer Networks",
+    "chapter": "Transport Layer",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Transport Layer (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Transport Layer (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Transport Layer (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Transport Layer (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Transport Layer (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Transport Layer (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-22T23:59:00Z"
+  },
+  {
+    "id": "Q024",
+    "subject": "Computer Networks",
+    "chapter": "Network Security",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Network Security (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Network Security (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Network Security (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Network Security (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Network Security (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Network Security (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Network Security (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Network Security (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Network Security (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-12T23:59:00Z"
+  },
+  {
+    "id": "Q025",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "chapter": "Introduction to ML",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Introduction to ML (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Introduction to ML (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Introduction to ML (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Introduction to ML (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Introduction to ML (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Introduction to ML (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Introduction to ML (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-17T23:59:00Z"
+  },
+  {
+    "id": "Q026",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "chapter": "Supervised Learning",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Supervised Learning (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Supervised Learning (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Supervised Learning (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Supervised Learning (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Supervised Learning (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Supervised Learning (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Supervised Learning (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-19T23:59:00Z"
+  },
+  {
+    "id": "Q027",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "chapter": "Regression",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Regression (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Regression (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Regression (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Regression (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Regression (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Regression (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Regression (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Regression (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Regression (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-21T23:59:00Z"
+  },
+  {
+    "id": "Q028",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "chapter": "Classification",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Classification (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Classification (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Classification (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Classification (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Classification (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Classification (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Classification (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Classification (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-22T23:59:00Z"
+  },
+  {
+    "id": "Q029",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "chapter": "Neural Networks",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Neural Networks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Neural Networks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Neural Networks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Neural Networks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Neural Networks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Neural Networks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Neural Networks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Neural Networks (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-09T23:59:00Z"
+  },
+  {
+    "id": "Q030",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "chapter": "Model Evaluation",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Model Evaluation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Model Evaluation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Model Evaluation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Model Evaluation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Model Evaluation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Model Evaluation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Model Evaluation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-12T23:59:00Z"
+  },
+  {
+    "id": "Q031",
+    "subject": "Probability and Statistics",
+    "chapter": "Probability Basics",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "text": "Placeholder question 10 on Probability Basics (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-16T23:59:00Z"
+  },
+  {
+    "id": "Q032",
+    "subject": "Probability and Statistics",
+    "chapter": "Random Variables",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Random Variables (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Random Variables (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Random Variables (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Random Variables (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Random Variables (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Random Variables (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Random Variables (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Random Variables (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-20T23:59:00Z"
+  },
+  {
+    "id": "Q033",
+    "subject": "Probability and Statistics",
+    "chapter": "Probability Distributions",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Probability Distributions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Probability Distributions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Probability Distributions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Probability Distributions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Probability Distributions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Probability Distributions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Probability Distributions (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-22T23:59:00Z"
+  },
+  {
+    "id": "Q034",
+    "subject": "Probability and Statistics",
+    "chapter": "Mean and Variance",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q10",
+        "text": "Placeholder question 10 on Mean and Variance (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-22T23:59:00Z"
+  },
+  {
+    "id": "Q035",
+    "subject": "Probability and Statistics",
+    "chapter": "Correlation",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Correlation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Correlation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Correlation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Correlation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Correlation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Correlation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Correlation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q8",
+        "text": "Placeholder question 8 on Correlation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q9",
+        "text": "Placeholder question 9 on Correlation (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-11T23:59:00Z"
+  },
+  {
+    "id": "Q036",
+    "subject": "Probability and Statistics",
+    "chapter": "Regression Analysis",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Placeholder question 1 on Regression Analysis (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q2",
+        "text": "Placeholder question 2 on Regression Analysis (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q3",
+        "text": "Placeholder question 3 on Regression Analysis (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q4",
+        "text": "Placeholder question 4 on Regression Analysis (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q5",
+        "text": "Placeholder question 5 on Regression Analysis (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q6",
+        "text": "Placeholder question 6 on Regression Analysis (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "q7",
+        "text": "Placeholder question 7 on Regression Analysis (replace with real content)",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correctIndex": 0
+      }
+    ],
+    "dueDate": "2026-02-14T23:59:00Z"
+  }
+]

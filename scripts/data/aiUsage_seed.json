@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "AI00001",
+    "studentId": "demo_S001",
+    "date": "2026-02-02",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 5.2,
+    "topicRequested": "Explain supervised learning"
+  },
+  {
+    "id": "AI00002",
+    "studentId": "demo_S001",
+    "date": "2026-02-02",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 3.3,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00003",
+    "studentId": "demo_S001",
+    "date": "2026-02-03",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 2.7,
+    "topicRequested": "Explain correlation"
+  },
+  {
+    "id": "AI00004",
+    "studentId": "demo_S001",
+    "date": "2026-02-04",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 5.2,
+    "topicRequested": "Explain inheritance"
+  },
+  {
+    "id": "AI00005",
+    "studentId": "demo_S001",
+    "date": "2026-02-04",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.9,
+    "topicRequested": "Explain correlation"
+  },
+  {
+    "id": "AI00006",
+    "studentId": "demo_S001",
+    "date": "2026-02-04",
+    "subject": "Computer Networks",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.1,
+    "topicRequested": "Explain routing"
+  },
+  {
+    "id": "AI00007",
+    "studentId": "demo_S001",
+    "date": "2026-02-04",
+    "subject": "Database Management Systems",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 1.7,
+    "topicRequested": "Explain SQL joins"
+  },
+  {
+    "id": "AI00008",
+    "studentId": "demo_S001",
+    "date": "2026-02-06",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.1,
+    "topicRequested": "Explain IP addressing"
+  },
+  {
+    "id": "AI00009",
+    "studentId": "demo_S001",
+    "date": "2026-02-08",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.9,
+    "topicRequested": "Explain encapsulation"
+  },
+  {
+    "id": "AI00010",
+    "studentId": "demo_S001",
+    "date": "2026-02-10",
+    "subject": "Computer Networks",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 2.3,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00011",
+    "studentId": "demo_S001",
+    "date": "2026-02-13",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 2.9,
+    "topicRequested": "Explain trees"
+  },
+  {
+    "id": "AI00012",
+    "studentId": "demo_S001",
+    "date": "2026-02-13",
+    "subject": "Database Management Systems",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.2,
+    "topicRequested": "Explain ER model"
+  },
+  {
+    "id": "AI00013",
+    "studentId": "demo_S001",
+    "date": "2026-02-13",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 1,
+    "questionsAnswered": 0,
+    "avgResponseTimeSeconds": 3.4,
+    "topicRequested": "Explain supervised learning"
+  },
+  {
+    "id": "AI00014",
+    "studentId": "demo_S001",
+    "date": "2026-02-14",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 6.2,
+    "topicRequested": "Explain classification"
+  },
+  {
+    "id": "AI00015",
+    "studentId": "demo_S001",
+    "date": "2026-02-15",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 2.8,
+    "topicRequested": "Explain mean and variance"
+  },
+  {
+    "id": "AI00016",
+    "studentId": "demo_S001",
+    "date": "2026-02-15",
+    "subject": "Database Management Systems",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 4.0,
+    "topicRequested": "Explain normalization"
+  },
+  {
+    "id": "AI00017",
+    "studentId": "demo_S002",
+    "date": "2026-02-02",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 5.0,
+    "topicRequested": "Explain random variables"
+  },
+  {
+    "id": "AI00018",
+    "studentId": "demo_S002",
+    "date": "2026-02-04",
+    "subject": "Database Management Systems",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 2.1,
+    "topicRequested": "Explain normalization"
+  },
+  {
+    "id": "AI00019",
+    "studentId": "demo_S002",
+    "date": "2026-02-06",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.1,
+    "topicRequested": "Explain IP addressing"
+  },
+  {
+    "id": "AI00020",
+    "studentId": "demo_S002",
+    "date": "2026-02-06",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.6,
+    "topicRequested": "Explain regression"
+  },
+  {
+    "id": "AI00021",
+    "studentId": "demo_S002",
+    "date": "2026-02-06",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 4.8,
+    "topicRequested": "Explain inheritance"
+  },
+  {
+    "id": "AI00022",
+    "studentId": "demo_S002",
+    "date": "2026-02-07",
+    "subject": "Database Management Systems",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 3.4,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00023",
+    "studentId": "demo_S002",
+    "date": "2026-02-08",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.6,
+    "topicRequested": "Explain mean and variance"
+  },
+  {
+    "id": "AI00024",
+    "studentId": "demo_S002",
+    "date": "2026-02-08",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 2.8,
+    "topicRequested": "Explain routing"
+  },
+  {
+    "id": "AI00025",
+    "studentId": "demo_S002",
+    "date": "2026-02-09",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.5,
+    "topicRequested": "Explain routing"
+  },
+  {
+    "id": "AI00026",
+    "studentId": "demo_S002",
+    "date": "2026-02-09",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 2.5,
+    "topicRequested": "Explain mean and variance"
+  },
+  {
+    "id": "AI00027",
+    "studentId": "demo_S002",
+    "date": "2026-02-09",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 1.7,
+    "topicRequested": "Explain stacks and queues"
+  },
+  {
+    "id": "AI00028",
+    "studentId": "demo_S002",
+    "date": "2026-02-11",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 6.4,
+    "topicRequested": "Explain correlation"
+  },
+  {
+    "id": "AI00029",
+    "studentId": "demo_S002",
+    "date": "2026-02-12",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 4.8,
+    "topicRequested": "Explain regression"
+  },
+  {
+    "id": "AI00030",
+    "studentId": "demo_S002",
+    "date": "2026-02-14",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 4.9,
+    "topicRequested": "Explain IP addressing"
+  },
+  {
+    "id": "AI00031",
+    "studentId": "demo_S002",
+    "date": "2026-02-15",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 2.9,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00032",
+    "studentId": "demo_S003",
+    "date": "2026-02-02",
+    "subject": "Computer Networks",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.3,
+    "topicRequested": "Explain TCP/IP"
+  },
+  {
+    "id": "AI00033",
+    "studentId": "demo_S003",
+    "date": "2026-02-02",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 1.5,
+    "topicRequested": "Explain mean and variance"
+  },
+  {
+    "id": "AI00034",
+    "studentId": "demo_S003",
+    "date": "2026-02-02",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.8,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00035",
+    "studentId": "demo_S003",
+    "date": "2026-02-03",
+    "subject": "Computer Networks",
+    "questionsAsked": 2,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 2.7,
+    "topicRequested": "Explain TCP/IP"
+  },
+  {
+    "id": "AI00036",
+    "studentId": "demo_S003",
+    "date": "2026-02-04",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.0,
+    "topicRequested": "Explain exception handling"
+  },
+  {
+    "id": "AI00037",
+    "studentId": "demo_S003",
+    "date": "2026-02-06",
+    "subject": "Database Management Systems",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 1.9,
+    "topicRequested": "Explain normalization"
+  },
+  {
+    "id": "AI00038",
+    "studentId": "demo_S003",
+    "date": "2026-02-07",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 5.6,
+    "topicRequested": "Explain model evaluation"
+  },
+  {
+    "id": "AI00039",
+    "studentId": "demo_S003",
+    "date": "2026-02-09",
+    "subject": "Database Management Systems",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 5.3,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00040",
+    "studentId": "demo_S003",
+    "date": "2026-02-09",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 6.4,
+    "topicRequested": "Explain exception handling"
+  },
+  {
+    "id": "AI00041",
+    "studentId": "demo_S003",
+    "date": "2026-02-10",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 2.3,
+    "topicRequested": "Explain regression"
+  },
+  {
+    "id": "AI00042",
+    "studentId": "demo_S003",
+    "date": "2026-02-11",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 5.8,
+    "topicRequested": "Explain stacks and queues"
+  },
+  {
+    "id": "AI00043",
+    "studentId": "demo_S003",
+    "date": "2026-02-12",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 1.8,
+    "topicRequested": "Explain inheritance"
+  },
+  {
+    "id": "AI00044",
+    "studentId": "demo_S003",
+    "date": "2026-02-12",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.4,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00045",
+    "studentId": "demo_S003",
+    "date": "2026-02-13",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 3.0,
+    "topicRequested": "Explain classification"
+  },
+  {
+    "id": "AI00046",
+    "studentId": "demo_S003",
+    "date": "2026-02-14",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 5.3,
+    "topicRequested": "Explain linked list"
+  },
+  {
+    "id": "AI00047",
+    "studentId": "demo_S003",
+    "date": "2026-02-14",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 6.3,
+    "topicRequested": "Explain correlation"
+  },
+  {
+    "id": "AI00048",
+    "studentId": "demo_S003",
+    "date": "2026-02-15",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 2.6,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00049",
+    "studentId": "demo_S004",
+    "date": "2026-02-02",
+    "subject": "Database Management Systems",
+    "questionsAsked": 7,
+    "questionsAnswered": 6,
+    "avgResponseTimeSeconds": 5.2,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00050",
+    "studentId": "demo_S004",
+    "date": "2026-02-04",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 9,
+    "questionsAnswered": 9,
+    "avgResponseTimeSeconds": 4.6,
+    "topicRequested": "Explain sorting algorithms"
+  },
+  {
+    "id": "AI00051",
+    "studentId": "demo_S004",
+    "date": "2026-02-05",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 6.3,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00052",
+    "studentId": "demo_S004",
+    "date": "2026-02-05",
+    "subject": "Computer Networks",
+    "questionsAsked": 8,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 5.2,
+    "topicRequested": "Explain TCP/IP"
+  },
+  {
+    "id": "AI00053",
+    "studentId": "demo_S004",
+    "date": "2026-02-05",
+    "subject": "Database Management Systems",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 5.8,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00054",
+    "studentId": "demo_S004",
+    "date": "2026-02-07",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 5.2,
+    "topicRequested": "Explain mean and variance"
+  },
+  {
+    "id": "AI00055",
+    "studentId": "demo_S004",
+    "date": "2026-02-08",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 9,
+    "questionsAnswered": 9,
+    "avgResponseTimeSeconds": 2.3,
+    "topicRequested": "Explain random variables"
+  },
+  {
+    "id": "AI00056",
+    "studentId": "demo_S004",
+    "date": "2026-02-08",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 5.4,
+    "topicRequested": "Explain trees"
+  },
+  {
+    "id": "AI00057",
+    "studentId": "demo_S004",
+    "date": "2026-02-09",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 6,
+    "questionsAnswered": 6,
+    "avgResponseTimeSeconds": 1.9,
+    "topicRequested": "Explain encapsulation"
+  },
+  {
+    "id": "AI00058",
+    "studentId": "demo_S004",
+    "date": "2026-02-09",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 6.4,
+    "topicRequested": "Explain supervised learning"
+  },
+  {
+    "id": "AI00059",
+    "studentId": "demo_S004",
+    "date": "2026-02-10",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 4.6,
+    "topicRequested": "Explain constructors"
+  },
+  {
+    "id": "AI00060",
+    "studentId": "demo_S004",
+    "date": "2026-02-10",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 1.8,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00061",
+    "studentId": "demo_S004",
+    "date": "2026-02-10",
+    "subject": "Database Management Systems",
+    "questionsAsked": 8,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 3.9,
+    "topicRequested": "Explain transactions"
+  },
+  {
+    "id": "AI00062",
+    "studentId": "demo_S004",
+    "date": "2026-02-11",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 2.6,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00063",
+    "studentId": "demo_S004",
+    "date": "2026-02-11",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 6.3,
+    "topicRequested": "Explain polymorphism"
+  },
+  {
+    "id": "AI00064",
+    "studentId": "demo_S004",
+    "date": "2026-02-11",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 6.0,
+    "topicRequested": "Explain trees"
+  },
+  {
+    "id": "AI00065",
+    "studentId": "demo_S004",
+    "date": "2026-02-11",
+    "subject": "Computer Networks",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 3.8,
+    "topicRequested": "Explain TCP/IP"
+  },
+  {
+    "id": "AI00066",
+    "studentId": "demo_S004",
+    "date": "2026-02-12",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 6.0,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00067",
+    "studentId": "demo_S004",
+    "date": "2026-02-13",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 8,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 4.8,
+    "topicRequested": "Explain polymorphism"
+  },
+  {
+    "id": "AI00068",
+    "studentId": "demo_S004",
+    "date": "2026-02-14",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 6.2,
+    "topicRequested": "Explain linked list"
+  },
+  {
+    "id": "AI00069",
+    "studentId": "demo_S004",
+    "date": "2026-02-14",
+    "subject": "Computer Networks",
+    "questionsAsked": 9,
+    "questionsAnswered": 9,
+    "avgResponseTimeSeconds": 2.4,
+    "topicRequested": "Explain transport layer"
+  },
+  {
+    "id": "AI00070",
+    "studentId": "demo_S004",
+    "date": "2026-02-15",
+    "subject": "Computer Networks",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 4.7,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00071",
+    "studentId": "demo_S005",
+    "date": "2026-02-02",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 4.5,
+    "topicRequested": "Explain stacks and queues"
+  },
+  {
+    "id": "AI00072",
+    "studentId": "demo_S005",
+    "date": "2026-02-02",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 8,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 2.3,
+    "topicRequested": "Explain probability distributions"
+  },
+  {
+    "id": "AI00073",
+    "studentId": "demo_S005",
+    "date": "2026-02-02",
+    "subject": "Database Management Systems",
+    "questionsAsked": 9,
+    "questionsAnswered": 9,
+    "avgResponseTimeSeconds": 6.2,
+    "topicRequested": "Explain normalization"
+  },
+  {
+    "id": "AI00074",
+    "studentId": "demo_S005",
+    "date": "2026-02-03",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 2.2,
+    "topicRequested": "Explain exception handling"
+  },
+  {
+    "id": "AI00075",
+    "studentId": "demo_S005",
+    "date": "2026-02-04",
+    "subject": "Database Management Systems",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 1.6,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00076",
+    "studentId": "demo_S005",
+    "date": "2026-02-05",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 5.0,
+    "topicRequested": "Explain probability distributions"
+  },
+  {
+    "id": "AI00077",
+    "studentId": "demo_S005",
+    "date": "2026-02-07",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 9,
+    "questionsAnswered": 9,
+    "avgResponseTimeSeconds": 4.8,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00078",
+    "studentId": "demo_S005",
+    "date": "2026-02-07",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 3.5,
+    "topicRequested": "Explain classification"
+  },
+  {
+    "id": "AI00079",
+    "studentId": "demo_S005",
+    "date": "2026-02-08",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 2.0,
+    "topicRequested": "Explain polymorphism"
+  },
+  {
+    "id": "AI00080",
+    "studentId": "demo_S005",
+    "date": "2026-02-08",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.0,
+    "topicRequested": "Explain arrays"
+  },
+  {
+    "id": "AI00081",
+    "studentId": "demo_S005",
+    "date": "2026-02-08",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 4.1,
+    "topicRequested": "Explain random variables"
+  },
+  {
+    "id": "AI00082",
+    "studentId": "demo_S005",
+    "date": "2026-02-09",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 2.1,
+    "topicRequested": "Explain supervised learning"
+  },
+  {
+    "id": "AI00083",
+    "studentId": "demo_S005",
+    "date": "2026-02-09",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 4.0,
+    "topicRequested": "Explain probability distributions"
+  },
+  {
+    "id": "AI00084",
+    "studentId": "demo_S005",
+    "date": "2026-02-10",
+    "subject": "Computer Networks",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.6,
+    "topicRequested": "Explain IP addressing"
+  },
+  {
+    "id": "AI00085",
+    "studentId": "demo_S005",
+    "date": "2026-02-10",
+    "subject": "Database Management Systems",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 2.7,
+    "topicRequested": "Explain SQL joins"
+  },
+  {
+    "id": "AI00086",
+    "studentId": "demo_S005",
+    "date": "2026-02-11",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 5.0,
+    "topicRequested": "Explain regression"
+  },
+  {
+    "id": "AI00087",
+    "studentId": "demo_S005",
+    "date": "2026-02-11",
+    "subject": "Computer Networks",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 2.0,
+    "topicRequested": "Explain IP addressing"
+  },
+  {
+    "id": "AI00088",
+    "studentId": "demo_S005",
+    "date": "2026-02-12",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 1.8,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00089",
+    "studentId": "demo_S005",
+    "date": "2026-02-13",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 4.5,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00090",
+    "studentId": "demo_S005",
+    "date": "2026-02-14",
+    "subject": "Computer Networks",
+    "questionsAsked": 8,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 3.6,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00091",
+    "studentId": "demo_S005",
+    "date": "2026-02-15",
+    "subject": "Computer Networks",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 5.3,
+    "topicRequested": "Explain IP addressing"
+  },
+  {
+    "id": "AI00092",
+    "studentId": "demo_S005",
+    "date": "2026-02-15",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 8,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 3.7,
+    "topicRequested": "Explain encapsulation"
+  },
+  {
+    "id": "AI00093",
+    "studentId": "demo_S005",
+    "date": "2026-02-15",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 3.8,
+    "topicRequested": "Explain linked list"
+  },
+  {
+    "id": "AI00094",
+    "studentId": "demo_S006",
+    "date": "2026-02-04",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 4.4,
+    "topicRequested": "Explain classification"
+  },
+  {
+    "id": "AI00095",
+    "studentId": "demo_S006",
+    "date": "2026-02-06",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 3.9,
+    "topicRequested": "Explain trees"
+  },
+  {
+    "id": "AI00096",
+    "studentId": "demo_S006",
+    "date": "2026-02-11",
+    "subject": "Database Management Systems",
+    "questionsAsked": 1,
+    "questionsAnswered": 0,
+    "avgResponseTimeSeconds": 4.7,
+    "topicRequested": "Explain SQL joins"
+  },
+  {
+    "id": "AI00097",
+    "studentId": "demo_S007",
+    "date": "2026-02-03",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 1.9,
+    "topicRequested": "Explain mean and variance"
+  },
+  {
+    "id": "AI00098",
+    "studentId": "demo_S007",
+    "date": "2026-02-04",
+    "subject": "Computer Networks",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.7,
+    "topicRequested": "Explain TCP/IP"
+  },
+  {
+    "id": "AI00099",
+    "studentId": "demo_S007",
+    "date": "2026-02-05",
+    "subject": "Database Management Systems",
+    "questionsAsked": 1,
+    "questionsAnswered": 0,
+    "avgResponseTimeSeconds": 4.1,
+    "topicRequested": "Explain normalization"
+  },
+  {
+    "id": "AI00100",
+    "studentId": "demo_S007",
+    "date": "2026-02-09",
+    "subject": "Computer Networks",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.6,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00101",
+    "studentId": "demo_S007",
+    "date": "2026-02-11",
+    "subject": "Database Management Systems",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 5.6,
+    "topicRequested": "Explain SQL joins"
+  },
+  {
+    "id": "AI00102",
+    "studentId": "demo_S007",
+    "date": "2026-02-12",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.4,
+    "topicRequested": "Explain constructors"
+  },
+  {
+    "id": "AI00103",
+    "studentId": "demo_S007",
+    "date": "2026-02-12",
+    "subject": "Database Management Systems",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 1.9,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00104",
+    "studentId": "demo_S007",
+    "date": "2026-02-12",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.7,
+    "topicRequested": "Explain probability distributions"
+  },
+  {
+    "id": "AI00105",
+    "studentId": "demo_S007",
+    "date": "2026-02-13",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 2.4,
+    "topicRequested": "Explain supervised learning"
+  },
+  {
+    "id": "AI00106",
+    "studentId": "demo_S007",
+    "date": "2026-02-13",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 1.9,
+    "topicRequested": "Explain arrays"
+  },
+  {
+    "id": "AI00107",
+    "studentId": "demo_S008",
+    "date": "2026-02-03",
+    "subject": "Database Management Systems",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 5.2,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00108",
+    "studentId": "demo_S008",
+    "date": "2026-02-04",
+    "subject": "Database Management Systems",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.9,
+    "topicRequested": "Explain transactions"
+  },
+  {
+    "id": "AI00109",
+    "studentId": "demo_S008",
+    "date": "2026-02-05",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.8,
+    "topicRequested": "Explain random variables"
+  },
+  {
+    "id": "AI00110",
+    "studentId": "demo_S008",
+    "date": "2026-02-06",
+    "subject": "Database Management Systems",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.3,
+    "topicRequested": "Explain transactions"
+  },
+  {
+    "id": "AI00111",
+    "studentId": "demo_S008",
+    "date": "2026-02-06",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 8,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 6.2,
+    "topicRequested": "Explain probability distributions"
+  },
+  {
+    "id": "AI00112",
+    "studentId": "demo_S008",
+    "date": "2026-02-06",
+    "subject": "Computer Networks",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 2.4,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00113",
+    "studentId": "demo_S008",
+    "date": "2026-02-06",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 4.5,
+    "topicRequested": "Explain trees"
+  },
+  {
+    "id": "AI00114",
+    "studentId": "demo_S008",
+    "date": "2026-02-07",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 6.4,
+    "topicRequested": "Explain correlation"
+  },
+  {
+    "id": "AI00115",
+    "studentId": "demo_S008",
+    "date": "2026-02-07",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 9,
+    "questionsAnswered": 9,
+    "avgResponseTimeSeconds": 1.7,
+    "topicRequested": "Explain exception handling"
+  },
+  {
+    "id": "AI00116",
+    "studentId": "demo_S008",
+    "date": "2026-02-07",
+    "subject": "Database Management Systems",
+    "questionsAsked": 6,
+    "questionsAnswered": 6,
+    "avgResponseTimeSeconds": 1.8,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00117",
+    "studentId": "demo_S008",
+    "date": "2026-02-07",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 1.8,
+    "topicRequested": "Explain sorting algorithms"
+  },
+  {
+    "id": "AI00118",
+    "studentId": "demo_S008",
+    "date": "2026-02-09",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 9,
+    "questionsAnswered": 9,
+    "avgResponseTimeSeconds": 1.8,
+    "topicRequested": "Explain classification"
+  },
+  {
+    "id": "AI00119",
+    "studentId": "demo_S008",
+    "date": "2026-02-09",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 4.8,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00120",
+    "studentId": "demo_S008",
+    "date": "2026-02-10",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 8,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 4.7,
+    "topicRequested": "Explain arrays"
+  },
+  {
+    "id": "AI00121",
+    "studentId": "demo_S008",
+    "date": "2026-02-10",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 9,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 3.7,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00122",
+    "studentId": "demo_S008",
+    "date": "2026-02-10",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 4.0,
+    "topicRequested": "Explain inheritance"
+  },
+  {
+    "id": "AI00123",
+    "studentId": "demo_S008",
+    "date": "2026-02-11",
+    "subject": "Computer Networks",
+    "questionsAsked": 8,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 6.1,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00124",
+    "studentId": "demo_S008",
+    "date": "2026-02-12",
+    "subject": "Database Management Systems",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.5,
+    "topicRequested": "Explain SQL joins"
+  },
+  {
+    "id": "AI00125",
+    "studentId": "demo_S008",
+    "date": "2026-02-12",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 3.0,
+    "topicRequested": "Explain polymorphism"
+  },
+  {
+    "id": "AI00126",
+    "studentId": "demo_S008",
+    "date": "2026-02-12",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 4.8,
+    "topicRequested": "Explain classification"
+  },
+  {
+    "id": "AI00127",
+    "studentId": "demo_S008",
+    "date": "2026-02-13",
+    "subject": "Computer Networks",
+    "questionsAsked": 7,
+    "questionsAnswered": 6,
+    "avgResponseTimeSeconds": 5.4,
+    "topicRequested": "Explain TCP/IP"
+  },
+  {
+    "id": "AI00128",
+    "studentId": "demo_S008",
+    "date": "2026-02-14",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 9,
+    "questionsAnswered": 9,
+    "avgResponseTimeSeconds": 1.6,
+    "topicRequested": "Explain linked list"
+  },
+  {
+    "id": "AI00129",
+    "studentId": "demo_S008",
+    "date": "2026-02-14",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 9,
+    "questionsAnswered": 8,
+    "avgResponseTimeSeconds": 6.5,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00130",
+    "studentId": "demo_S008",
+    "date": "2026-02-14",
+    "subject": "Database Management Systems",
+    "questionsAsked": 7,
+    "questionsAnswered": 7,
+    "avgResponseTimeSeconds": 4.2,
+    "topicRequested": "Explain SQL joins"
+  },
+  {
+    "id": "AI00131",
+    "studentId": "demo_S008",
+    "date": "2026-02-15",
+    "subject": "Computer Networks",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 5.2,
+    "topicRequested": "Explain IP addressing"
+  },
+  {
+    "id": "AI00132",
+    "studentId": "demo_S009",
+    "date": "2026-02-02",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 1,
+    "questionsAnswered": 0,
+    "avgResponseTimeSeconds": 1.7,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00133",
+    "studentId": "demo_S009",
+    "date": "2026-02-04",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 3.0,
+    "topicRequested": "Explain encapsulation"
+  },
+  {
+    "id": "AI00134",
+    "studentId": "demo_S009",
+    "date": "2026-02-04",
+    "subject": "Database Management Systems",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 3.4,
+    "topicRequested": "Explain transactions"
+  },
+  {
+    "id": "AI00135",
+    "studentId": "demo_S009",
+    "date": "2026-02-04",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 4.1,
+    "topicRequested": "Explain arrays"
+  },
+  {
+    "id": "AI00136",
+    "studentId": "demo_S009",
+    "date": "2026-02-04",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 1.8,
+    "topicRequested": "Explain model evaluation"
+  },
+  {
+    "id": "AI00137",
+    "studentId": "demo_S009",
+    "date": "2026-02-05",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.0,
+    "topicRequested": "Explain classification"
+  },
+  {
+    "id": "AI00138",
+    "studentId": "demo_S009",
+    "date": "2026-02-05",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 2.4,
+    "topicRequested": "Explain constructors"
+  },
+  {
+    "id": "AI00139",
+    "studentId": "demo_S009",
+    "date": "2026-02-05",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 3.1,
+    "topicRequested": "Explain random variables"
+  },
+  {
+    "id": "AI00140",
+    "studentId": "demo_S009",
+    "date": "2026-02-05",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 2.8,
+    "topicRequested": "Explain routing"
+  },
+  {
+    "id": "AI00141",
+    "studentId": "demo_S009",
+    "date": "2026-02-05",
+    "subject": "Database Management Systems",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 2.4,
+    "topicRequested": "Explain normalization"
+  },
+  {
+    "id": "AI00142",
+    "studentId": "demo_S009",
+    "date": "2026-02-06",
+    "subject": "Computer Networks",
+    "questionsAsked": 1,
+    "questionsAnswered": 0,
+    "avgResponseTimeSeconds": 4.7,
+    "topicRequested": "Explain transport layer"
+  },
+  {
+    "id": "AI00143",
+    "studentId": "demo_S009",
+    "date": "2026-02-07",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 2.1,
+    "topicRequested": "Explain inheritance"
+  },
+  {
+    "id": "AI00144",
+    "studentId": "demo_S009",
+    "date": "2026-02-09",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 2.7,
+    "topicRequested": "Explain supervised learning"
+  },
+  {
+    "id": "AI00145",
+    "studentId": "demo_S009",
+    "date": "2026-02-09",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.1,
+    "topicRequested": "Explain linked list"
+  },
+  {
+    "id": "AI00146",
+    "studentId": "demo_S009",
+    "date": "2026-02-09",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 1.8,
+    "topicRequested": "Explain random variables"
+  },
+  {
+    "id": "AI00147",
+    "studentId": "demo_S009",
+    "date": "2026-02-10",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.5,
+    "topicRequested": "Explain stacks and queues"
+  },
+  {
+    "id": "AI00148",
+    "studentId": "demo_S009",
+    "date": "2026-02-10",
+    "subject": "Database Management Systems",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 5.4,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00149",
+    "studentId": "demo_S009",
+    "date": "2026-02-11",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 4.3,
+    "topicRequested": "Explain regression"
+  },
+  {
+    "id": "AI00150",
+    "studentId": "demo_S009",
+    "date": "2026-02-11",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 2.9,
+    "topicRequested": "Explain arrays"
+  },
+  {
+    "id": "AI00151",
+    "studentId": "demo_S009",
+    "date": "2026-02-12",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.8,
+    "topicRequested": "Explain probability distributions"
+  },
+  {
+    "id": "AI00152",
+    "studentId": "demo_S009",
+    "date": "2026-02-12",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.2,
+    "topicRequested": "Explain supervised learning"
+  },
+  {
+    "id": "AI00153",
+    "studentId": "demo_S009",
+    "date": "2026-02-13",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 1.6,
+    "topicRequested": "Explain exception handling"
+  },
+  {
+    "id": "AI00154",
+    "studentId": "demo_S009",
+    "date": "2026-02-14",
+    "subject": "Computer Networks",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 1.7,
+    "topicRequested": "Explain transport layer"
+  },
+  {
+    "id": "AI00155",
+    "studentId": "demo_S009",
+    "date": "2026-02-15",
+    "subject": "Database Management Systems",
+    "questionsAsked": 3,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.2,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00156",
+    "studentId": "demo_S009",
+    "date": "2026-02-15",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.6,
+    "topicRequested": "Explain mean and variance"
+  },
+  {
+    "id": "AI00157",
+    "studentId": "demo_S010",
+    "date": "2026-02-04",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 2.5,
+    "topicRequested": "Explain encapsulation"
+  },
+  {
+    "id": "AI00158",
+    "studentId": "demo_S010",
+    "date": "2026-02-04",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 5.2,
+    "topicRequested": "Explain stacks and queues"
+  },
+  {
+    "id": "AI00159",
+    "studentId": "demo_S010",
+    "date": "2026-02-04",
+    "subject": "Computer Networks",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 5.9,
+    "topicRequested": "Explain TCP/IP"
+  },
+  {
+    "id": "AI00160",
+    "studentId": "demo_S010",
+    "date": "2026-02-05",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 4.1,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00161",
+    "studentId": "demo_S010",
+    "date": "2026-02-07",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.7,
+    "topicRequested": "Explain inheritance"
+  },
+  {
+    "id": "AI00162",
+    "studentId": "demo_S010",
+    "date": "2026-02-07",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 5.8,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00163",
+    "studentId": "demo_S010",
+    "date": "2026-02-07",
+    "subject": "Database Management Systems",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 3.1,
+    "topicRequested": "Explain transactions"
+  },
+  {
+    "id": "AI00164",
+    "studentId": "demo_S010",
+    "date": "2026-02-08",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 2.2,
+    "topicRequested": "Explain exception handling"
+  },
+  {
+    "id": "AI00165",
+    "studentId": "demo_S010",
+    "date": "2026-02-08",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.1,
+    "topicRequested": "Explain trees"
+  },
+  {
+    "id": "AI00166",
+    "studentId": "demo_S010",
+    "date": "2026-02-10",
+    "subject": "Database Management Systems",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 2.2,
+    "topicRequested": "Explain normalization"
+  },
+  {
+    "id": "AI00167",
+    "studentId": "demo_S010",
+    "date": "2026-02-10",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 5,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.3,
+    "topicRequested": "Explain sorting algorithms"
+  },
+  {
+    "id": "AI00168",
+    "studentId": "demo_S010",
+    "date": "2026-02-15",
+    "subject": "Database Management Systems",
+    "questionsAsked": 2,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 3.5,
+    "topicRequested": "Explain transactions"
+  },
+  {
+    "id": "AI00169",
+    "studentId": "demo_S011",
+    "date": "2026-02-02",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 2.9,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00170",
+    "studentId": "demo_S011",
+    "date": "2026-02-02",
+    "subject": "Database Management Systems",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 4.5,
+    "topicRequested": "Explain normalization"
+  },
+  {
+    "id": "AI00171",
+    "studentId": "demo_S011",
+    "date": "2026-02-03",
+    "subject": "Database Management Systems",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 6.0,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00172",
+    "studentId": "demo_S011",
+    "date": "2026-02-03",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 5.2,
+    "topicRequested": "Explain trees"
+  },
+  {
+    "id": "AI00173",
+    "studentId": "demo_S011",
+    "date": "2026-02-04",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.8,
+    "topicRequested": "Explain exception handling"
+  },
+  {
+    "id": "AI00174",
+    "studentId": "demo_S011",
+    "date": "2026-02-04",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 5.3,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00175",
+    "studentId": "demo_S011",
+    "date": "2026-02-04",
+    "subject": "Database Management Systems",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 2.9,
+    "topicRequested": "Explain indexing"
+  },
+  {
+    "id": "AI00176",
+    "studentId": "demo_S011",
+    "date": "2026-02-04",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 4.3,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00177",
+    "studentId": "demo_S011",
+    "date": "2026-02-07",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 5.4,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00178",
+    "studentId": "demo_S011",
+    "date": "2026-02-07",
+    "subject": "Computer Networks",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 1.5,
+    "topicRequested": "Explain TCP/IP"
+  },
+  {
+    "id": "AI00179",
+    "studentId": "demo_S011",
+    "date": "2026-02-07",
+    "subject": "Database Management Systems",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 1.8,
+    "topicRequested": "Explain ER model"
+  },
+  {
+    "id": "AI00180",
+    "studentId": "demo_S011",
+    "date": "2026-02-08",
+    "subject": "Computer Networks",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 2.6,
+    "topicRequested": "Explain routing"
+  },
+  {
+    "id": "AI00181",
+    "studentId": "demo_S011",
+    "date": "2026-02-08",
+    "subject": "Database Management Systems",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 5.8,
+    "topicRequested": "Explain ER model"
+  },
+  {
+    "id": "AI00182",
+    "studentId": "demo_S011",
+    "date": "2026-02-10",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 2,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 4.5,
+    "topicRequested": "Explain arrays"
+  },
+  {
+    "id": "AI00183",
+    "studentId": "demo_S011",
+    "date": "2026-02-11",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.7,
+    "topicRequested": "Explain inheritance"
+  },
+  {
+    "id": "AI00184",
+    "studentId": "demo_S011",
+    "date": "2026-02-11",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 4.7,
+    "topicRequested": "Explain supervised learning"
+  },
+  {
+    "id": "AI00185",
+    "studentId": "demo_S011",
+    "date": "2026-02-11",
+    "subject": "Database Management Systems",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 6.3,
+    "topicRequested": "Explain transactions"
+  },
+  {
+    "id": "AI00186",
+    "studentId": "demo_S011",
+    "date": "2026-02-12",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 4.9,
+    "topicRequested": "Explain trees"
+  },
+  {
+    "id": "AI00187",
+    "studentId": "demo_S011",
+    "date": "2026-02-13",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 2.4,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00188",
+    "studentId": "demo_S011",
+    "date": "2026-02-14",
+    "subject": "Database Management Systems",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 6.0,
+    "topicRequested": "Explain SQL joins"
+  },
+  {
+    "id": "AI00189",
+    "studentId": "demo_S012",
+    "date": "2026-02-04",
+    "subject": "Computer Networks",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 1.6,
+    "topicRequested": "Explain transport layer"
+  },
+  {
+    "id": "AI00190",
+    "studentId": "demo_S012",
+    "date": "2026-02-04",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.0,
+    "topicRequested": "Explain classification"
+  },
+  {
+    "id": "AI00191",
+    "studentId": "demo_S012",
+    "date": "2026-02-04",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 1,
+    "questionsAnswered": 0,
+    "avgResponseTimeSeconds": 2.2,
+    "topicRequested": "Explain arrays"
+  },
+  {
+    "id": "AI00192",
+    "studentId": "demo_S012",
+    "date": "2026-02-05",
+    "subject": "Database Management Systems",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.4,
+    "topicRequested": "Explain SQL joins"
+  },
+  {
+    "id": "AI00193",
+    "studentId": "demo_S012",
+    "date": "2026-02-06",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 4.3,
+    "topicRequested": "Explain linked list"
+  },
+  {
+    "id": "AI00194",
+    "studentId": "demo_S012",
+    "date": "2026-02-07",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.9,
+    "topicRequested": "Explain transport layer"
+  },
+  {
+    "id": "AI00195",
+    "studentId": "demo_S012",
+    "date": "2026-02-08",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 3,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 5.8,
+    "topicRequested": "Explain constructors"
+  },
+  {
+    "id": "AI00196",
+    "studentId": "demo_S012",
+    "date": "2026-02-09",
+    "subject": "Computer Networks",
+    "questionsAsked": 1,
+    "questionsAnswered": 0,
+    "avgResponseTimeSeconds": 5.3,
+    "topicRequested": "Explain TCP/IP"
+  },
+  {
+    "id": "AI00197",
+    "studentId": "demo_S012",
+    "date": "2026-02-09",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.3,
+    "topicRequested": "Explain probability"
+  },
+  {
+    "id": "AI00198",
+    "studentId": "demo_S012",
+    "date": "2026-02-09",
+    "subject": "Database Management Systems",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.4,
+    "topicRequested": "Explain SQL joins"
+  },
+  {
+    "id": "AI00199",
+    "studentId": "demo_S012",
+    "date": "2026-02-09",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 3.9,
+    "topicRequested": "Explain arrays"
+  },
+  {
+    "id": "AI00200",
+    "studentId": "demo_S012",
+    "date": "2026-02-11",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 4.0,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00201",
+    "studentId": "demo_S012",
+    "date": "2026-02-11",
+    "subject": "Probability and Statistics",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 1.9,
+    "topicRequested": "Explain mean and variance"
+  },
+  {
+    "id": "AI00202",
+    "studentId": "demo_S012",
+    "date": "2026-02-11",
+    "subject": "Computer Networks",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 6.0,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00203",
+    "studentId": "demo_S012",
+    "date": "2026-02-13",
+    "subject": "Data Structures and Algorithms",
+    "questionsAsked": 5,
+    "questionsAnswered": 5,
+    "avgResponseTimeSeconds": 5.4,
+    "topicRequested": "Explain stacks and queues"
+  },
+  {
+    "id": "AI00204",
+    "studentId": "demo_S012",
+    "date": "2026-02-13",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 4,
+    "avgResponseTimeSeconds": 1.5,
+    "topicRequested": "Explain routing"
+  },
+  {
+    "id": "AI00205",
+    "studentId": "demo_S012",
+    "date": "2026-02-14",
+    "subject": "Computer Networks",
+    "questionsAsked": 4,
+    "questionsAnswered": 3,
+    "avgResponseTimeSeconds": 6.5,
+    "topicRequested": "Explain network security"
+  },
+  {
+    "id": "AI00206",
+    "studentId": "demo_S012",
+    "date": "2026-02-15",
+    "subject": "Artificial Intelligence and Machine Learning",
+    "questionsAsked": 2,
+    "questionsAnswered": 2,
+    "avgResponseTimeSeconds": 3.7,
+    "topicRequested": "Explain neural networks"
+  },
+  {
+    "id": "AI00207",
+    "studentId": "demo_S012",
+    "date": "2026-02-15",
+    "subject": "Object Oriented Programming",
+    "questionsAsked": 1,
+    "questionsAnswered": 1,
+    "avgResponseTimeSeconds": 2.6,
+    "topicRequested": "Explain encapsulation"
+  }
+]

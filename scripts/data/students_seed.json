@@ -1,0 +1,182 @@
+[
+  {
+    "id": "demo_S001",
+    "authUid": "demo_S001",
+    "name": "Naman Kapoor",
+    "email": "demo_s001@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S002",
+    "authUid": "demo_S002",
+    "name": "Neha Chaudhary",
+    "email": "demo_s002@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S003",
+    "authUid": "demo_S003",
+    "name": "Dhruv Kumar",
+    "email": "demo_s003@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S004",
+    "authUid": "demo_S004",
+    "name": "Rahul Malhotra",
+    "email": "demo_s004@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S005",
+    "authUid": "demo_S005",
+    "name": "Nikhil Dhillon",
+    "email": "demo_s005@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S006",
+    "authUid": "demo_S006",
+    "name": "Vanya Dhillon",
+    "email": "demo_s006@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S007",
+    "authUid": "demo_S007",
+    "name": "Aryan Rana",
+    "email": "demo_s007@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S008",
+    "authUid": "demo_S008",
+    "name": "Kiara Dhillon",
+    "email": "demo_s008@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S009",
+    "authUid": "demo_S009",
+    "name": "Varun Mehta",
+    "email": "demo_s009@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S010",
+    "authUid": "demo_S010",
+    "name": "Arjun Joshi",
+    "email": "demo_s010@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S011",
+    "authUid": "demo_S011",
+    "name": "Aryan Grewal",
+    "email": "demo_s011@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  },
+  {
+    "id": "demo_S012",
+    "authUid": "demo_S012",
+    "name": "Sneha Nair",
+    "email": "demo_s012@test.local",
+    "classId": "class_10a",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Object Oriented Programming",
+      "Database Management Systems",
+      "Computer Networks",
+      "Artificial Intelligence and Machine Learning",
+      "Probability and Statistics"
+    ]
+  }
+]

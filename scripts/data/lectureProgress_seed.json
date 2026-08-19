@@ -1,0 +1,2594 @@
+[
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L001",
+    "status": "in_progress",
+    "watchDurationSec": 1752
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L002",
+    "status": "in_progress",
+    "watchDurationSec": 3654
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L003",
+    "status": "in_progress",
+    "watchDurationSec": 3570
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L004",
+    "status": "completed",
+    "watchDurationSec": 2352
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 1656
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L006",
+    "status": "in_progress",
+    "watchDurationSec": 2220
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L007",
+    "status": "in_progress",
+    "watchDurationSec": 3642
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L008",
+    "status": "in_progress",
+    "watchDurationSec": 1728
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L009",
+    "status": "in_progress",
+    "watchDurationSec": 1386
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L010",
+    "status": "in_progress",
+    "watchDurationSec": 1770
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L011",
+    "status": "completed",
+    "watchDurationSec": 2226
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L012",
+    "status": "in_progress",
+    "watchDurationSec": 1218
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L013",
+    "status": "in_progress",
+    "watchDurationSec": 2796
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L014",
+    "status": "in_progress",
+    "watchDurationSec": 1752
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L015",
+    "status": "in_progress",
+    "watchDurationSec": 3402
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L016",
+    "status": "in_progress",
+    "watchDurationSec": 2184
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L017",
+    "status": "in_progress",
+    "watchDurationSec": 2562
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L018",
+    "status": "in_progress",
+    "watchDurationSec": 1170
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L019",
+    "status": "completed",
+    "watchDurationSec": 3228
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L020",
+    "status": "in_progress",
+    "watchDurationSec": 1770
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L021",
+    "status": "in_progress",
+    "watchDurationSec": 3210
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 1584
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L023",
+    "status": "completed",
+    "watchDurationSec": 3300
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L024",
+    "status": "completed",
+    "watchDurationSec": 3960
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L025",
+    "status": "in_progress",
+    "watchDurationSec": 2724
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L026",
+    "status": "in_progress",
+    "watchDurationSec": 2850
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L027",
+    "status": "in_progress",
+    "watchDurationSec": 2148
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L028",
+    "status": "in_progress",
+    "watchDurationSec": 1590
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L029",
+    "status": "in_progress",
+    "watchDurationSec": 1188
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L030",
+    "status": "in_progress",
+    "watchDurationSec": 2316
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L031",
+    "status": "completed",
+    "watchDurationSec": 4020
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L032",
+    "status": "completed",
+    "watchDurationSec": 4002
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L033",
+    "status": "in_progress",
+    "watchDurationSec": 1758
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L034",
+    "status": "in_progress",
+    "watchDurationSec": 2004
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L035",
+    "status": "in_progress",
+    "watchDurationSec": 2226
+  },
+  {
+    "studentId": "demo_S001",
+    "lectureId": "L036",
+    "status": "in_progress",
+    "watchDurationSec": 2190
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L001",
+    "status": "in_progress",
+    "watchDurationSec": 2106
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L002",
+    "status": "in_progress",
+    "watchDurationSec": 4302
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L003",
+    "status": "completed",
+    "watchDurationSec": 4848
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L004",
+    "status": "in_progress",
+    "watchDurationSec": 2118
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 2400
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L006",
+    "status": "in_progress",
+    "watchDurationSec": 2190
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L007",
+    "status": "in_progress",
+    "watchDurationSec": 3960
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L008",
+    "status": "in_progress",
+    "watchDurationSec": 2022
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L009",
+    "status": "in_progress",
+    "watchDurationSec": 1650
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L010",
+    "status": "completed",
+    "watchDurationSec": 2058
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L011",
+    "status": "completed",
+    "watchDurationSec": 2454
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L012",
+    "status": "in_progress",
+    "watchDurationSec": 1662
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L013",
+    "status": "completed",
+    "watchDurationSec": 3288
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L014",
+    "status": "completed",
+    "watchDurationSec": 2340
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L015",
+    "status": "in_progress",
+    "watchDurationSec": 3840
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L016",
+    "status": "in_progress",
+    "watchDurationSec": 2226
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L017",
+    "status": "in_progress",
+    "watchDurationSec": 2538
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L018",
+    "status": "in_progress",
+    "watchDurationSec": 1458
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L019",
+    "status": "in_progress",
+    "watchDurationSec": 2400
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L020",
+    "status": "completed",
+    "watchDurationSec": 2250
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L021",
+    "status": "completed",
+    "watchDurationSec": 3714
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 1224
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L023",
+    "status": "completed",
+    "watchDurationSec": 3282
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L024",
+    "status": "in_progress",
+    "watchDurationSec": 2688
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L025",
+    "status": "in_progress",
+    "watchDurationSec": 3192
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L026",
+    "status": "in_progress",
+    "watchDurationSec": 3366
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L027",
+    "status": "in_progress",
+    "watchDurationSec": 1866
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L028",
+    "status": "in_progress",
+    "watchDurationSec": 1500
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L029",
+    "status": "in_progress",
+    "watchDurationSec": 1524
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L030",
+    "status": "in_progress",
+    "watchDurationSec": 2550
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L031",
+    "status": "completed",
+    "watchDurationSec": 4008
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L032",
+    "status": "in_progress",
+    "watchDurationSec": 3324
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L033",
+    "status": "in_progress",
+    "watchDurationSec": 2454
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L034",
+    "status": "in_progress",
+    "watchDurationSec": 2064
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L035",
+    "status": "in_progress",
+    "watchDurationSec": 2100
+  },
+  {
+    "studentId": "demo_S002",
+    "lectureId": "L036",
+    "status": "in_progress",
+    "watchDurationSec": 1992
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L001",
+    "status": "in_progress",
+    "watchDurationSec": 2082
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L002",
+    "status": "in_progress",
+    "watchDurationSec": 3264
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L003",
+    "status": "completed",
+    "watchDurationSec": 4518
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L004",
+    "status": "in_progress",
+    "watchDurationSec": 1812
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 2484
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L006",
+    "status": "completed",
+    "watchDurationSec": 2430
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L007",
+    "status": "in_progress",
+    "watchDurationSec": 3648
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L008",
+    "status": "in_progress",
+    "watchDurationSec": 1782
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L009",
+    "status": "completed",
+    "watchDurationSec": 1842
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L010",
+    "status": "in_progress",
+    "watchDurationSec": 1854
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L011",
+    "status": "in_progress",
+    "watchDurationSec": 2088
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L012",
+    "status": "in_progress",
+    "watchDurationSec": 1572
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L013",
+    "status": "in_progress",
+    "watchDurationSec": 2856
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L014",
+    "status": "in_progress",
+    "watchDurationSec": 1830
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L015",
+    "status": "in_progress",
+    "watchDurationSec": 3660
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L016",
+    "status": "in_progress",
+    "watchDurationSec": 2304
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L017",
+    "status": "in_progress",
+    "watchDurationSec": 2442
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L018",
+    "status": "in_progress",
+    "watchDurationSec": 1512
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L019",
+    "status": "completed",
+    "watchDurationSec": 3102
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L020",
+    "status": "completed",
+    "watchDurationSec": 2226
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L021",
+    "status": "in_progress",
+    "watchDurationSec": 3504
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 1230
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L023",
+    "status": "completed",
+    "watchDurationSec": 3450
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L024",
+    "status": "in_progress",
+    "watchDurationSec": 3378
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L025",
+    "status": "completed",
+    "watchDurationSec": 4356
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L026",
+    "status": "in_progress",
+    "watchDurationSec": 3474
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L027",
+    "status": "in_progress",
+    "watchDurationSec": 1770
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L028",
+    "status": "in_progress",
+    "watchDurationSec": 1512
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L029",
+    "status": "in_progress",
+    "watchDurationSec": 1758
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L030",
+    "status": "in_progress",
+    "watchDurationSec": 2346
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L031",
+    "status": "completed",
+    "watchDurationSec": 4020
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L032",
+    "status": "completed",
+    "watchDurationSec": 3990
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L033",
+    "status": "completed",
+    "watchDurationSec": 2940
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L034",
+    "status": "in_progress",
+    "watchDurationSec": 1980
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L035",
+    "status": "in_progress",
+    "watchDurationSec": 2046
+  },
+  {
+    "studentId": "demo_S003",
+    "lectureId": "L036",
+    "status": "in_progress",
+    "watchDurationSec": 2388
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L001",
+    "status": "completed",
+    "watchDurationSec": 2586
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L002",
+    "status": "completed",
+    "watchDurationSec": 5292
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L003",
+    "status": "completed",
+    "watchDurationSec": 5166
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L004",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 2844
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L006",
+    "status": "completed",
+    "watchDurationSec": 2970
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L007",
+    "status": "completed",
+    "watchDurationSec": 5400
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L008",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L009",
+    "status": "completed",
+    "watchDurationSec": 2100
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L010",
+    "status": "completed",
+    "watchDurationSec": 2400
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L011",
+    "status": "completed",
+    "watchDurationSec": 2490
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L012",
+    "status": "completed",
+    "watchDurationSec": 1920
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L013",
+    "status": "completed",
+    "watchDurationSec": 3066
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L014",
+    "status": "completed",
+    "watchDurationSec": 2670
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L015",
+    "status": "completed",
+    "watchDurationSec": 4614
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L016",
+    "status": "completed",
+    "watchDurationSec": 2904
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L017",
+    "status": "completed",
+    "watchDurationSec": 3216
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L018",
+    "status": "completed",
+    "watchDurationSec": 1824
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L019",
+    "status": "completed",
+    "watchDurationSec": 3600
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L020",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L021",
+    "status": "completed",
+    "watchDurationSec": 4254
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L022",
+    "status": "completed",
+    "watchDurationSec": 1956
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L023",
+    "status": "completed",
+    "watchDurationSec": 3414
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L024",
+    "status": "completed",
+    "watchDurationSec": 4344
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L025",
+    "status": "completed",
+    "watchDurationSec": 4152
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L026",
+    "status": "completed",
+    "watchDurationSec": 4146
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L027",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L028",
+    "status": "completed",
+    "watchDurationSec": 2100
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L029",
+    "status": "completed",
+    "watchDurationSec": 2352
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L030",
+    "status": "completed",
+    "watchDurationSec": 2982
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L031",
+    "status": "completed",
+    "watchDurationSec": 4176
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L032",
+    "status": "completed",
+    "watchDurationSec": 4500
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L033",
+    "status": "in_progress",
+    "watchDurationSec": 2634
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L034",
+    "status": "completed",
+    "watchDurationSec": 2646
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L035",
+    "status": "completed",
+    "watchDurationSec": 2976
+  },
+  {
+    "studentId": "demo_S004",
+    "lectureId": "L036",
+    "status": "completed",
+    "watchDurationSec": 2820
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L001",
+    "status": "completed",
+    "watchDurationSec": 2484
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L002",
+    "status": "completed",
+    "watchDurationSec": 5400
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L003",
+    "status": "completed",
+    "watchDurationSec": 5250
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L004",
+    "status": "completed",
+    "watchDurationSec": 2658
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L005",
+    "status": "completed",
+    "watchDurationSec": 3558
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L006",
+    "status": "completed",
+    "watchDurationSec": 2766
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L007",
+    "status": "completed",
+    "watchDurationSec": 5082
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L008",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L009",
+    "status": "completed",
+    "watchDurationSec": 2100
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L010",
+    "status": "completed",
+    "watchDurationSec": 2112
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L011",
+    "status": "completed",
+    "watchDurationSec": 2508
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L012",
+    "status": "completed",
+    "watchDurationSec": 1746
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L013",
+    "status": "completed",
+    "watchDurationSec": 3540
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L014",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L015",
+    "status": "completed",
+    "watchDurationSec": 5208
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L016",
+    "status": "completed",
+    "watchDurationSec": 2970
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L017",
+    "status": "completed",
+    "watchDurationSec": 3600
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L018",
+    "status": "completed",
+    "watchDurationSec": 1830
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L019",
+    "status": "completed",
+    "watchDurationSec": 3600
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L020",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L021",
+    "status": "completed",
+    "watchDurationSec": 4500
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 1662
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L023",
+    "status": "completed",
+    "watchDurationSec": 3480
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L024",
+    "status": "completed",
+    "watchDurationSec": 4350
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L025",
+    "status": "completed",
+    "watchDurationSec": 4500
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L026",
+    "status": "completed",
+    "watchDurationSec": 4500
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L027",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L028",
+    "status": "completed",
+    "watchDurationSec": 2034
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L029",
+    "status": "completed",
+    "watchDurationSec": 2184
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L030",
+    "status": "completed",
+    "watchDurationSec": 2970
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L031",
+    "status": "completed",
+    "watchDurationSec": 4500
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L032",
+    "status": "completed",
+    "watchDurationSec": 4254
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L033",
+    "status": "completed",
+    "watchDurationSec": 3108
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L034",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L035",
+    "status": "completed",
+    "watchDurationSec": 2538
+  },
+  {
+    "studentId": "demo_S005",
+    "lectureId": "L036",
+    "status": "completed",
+    "watchDurationSec": 3000
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L001",
+    "status": "in_progress",
+    "watchDurationSec": 1434
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L002",
+    "status": "in_progress",
+    "watchDurationSec": 2874
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L003",
+    "status": "in_progress",
+    "watchDurationSec": 2946
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L004",
+    "status": "in_progress",
+    "watchDurationSec": 1044
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 1602
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L006",
+    "status": "in_progress",
+    "watchDurationSec": 1026
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L007",
+    "status": "in_progress",
+    "watchDurationSec": 2232
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L008",
+    "status": "in_progress",
+    "watchDurationSec": 756
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L009",
+    "status": "in_progress",
+    "watchDurationSec": 714
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L010",
+    "status": "in_progress",
+    "watchDurationSec": 1158
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L011",
+    "status": "in_progress",
+    "watchDurationSec": 1296
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L012",
+    "status": "in_progress",
+    "watchDurationSec": 546
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L013",
+    "status": "in_progress",
+    "watchDurationSec": 1236
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L014",
+    "status": "in_progress",
+    "watchDurationSec": 1704
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L015",
+    "status": "in_progress",
+    "watchDurationSec": 1836
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L016",
+    "status": "in_progress",
+    "watchDurationSec": 1392
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L017",
+    "status": "in_progress",
+    "watchDurationSec": 1668
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L018",
+    "status": "in_progress",
+    "watchDurationSec": 810
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L019",
+    "status": "in_progress",
+    "watchDurationSec": 2364
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L020",
+    "status": "in_progress",
+    "watchDurationSec": 894
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L021",
+    "status": "in_progress",
+    "watchDurationSec": 1128
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 780
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L023",
+    "status": "in_progress",
+    "watchDurationSec": 1866
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L024",
+    "status": "in_progress",
+    "watchDurationSec": 2334
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L025",
+    "status": "in_progress",
+    "watchDurationSec": 2370
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L026",
+    "status": "in_progress",
+    "watchDurationSec": 2220
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L027",
+    "status": "in_progress",
+    "watchDurationSec": 1566
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L028",
+    "status": "in_progress",
+    "watchDurationSec": 1146
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L029",
+    "status": "in_progress",
+    "watchDurationSec": 984
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L030",
+    "status": "in_progress",
+    "watchDurationSec": 2232
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L031",
+    "status": "in_progress",
+    "watchDurationSec": 2406
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L032",
+    "status": "in_progress",
+    "watchDurationSec": 2184
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L033",
+    "status": "in_progress",
+    "watchDurationSec": 1152
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L034",
+    "status": "in_progress",
+    "watchDurationSec": 1722
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L035",
+    "status": "in_progress",
+    "watchDurationSec": 1890
+  },
+  {
+    "studentId": "demo_S006",
+    "lectureId": "L036",
+    "status": "in_progress",
+    "watchDurationSec": 1698
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L001",
+    "status": "completed",
+    "watchDurationSec": 2184
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L002",
+    "status": "in_progress",
+    "watchDurationSec": 3102
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L003",
+    "status": "completed",
+    "watchDurationSec": 4338
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L004",
+    "status": "completed",
+    "watchDurationSec": 2268
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 2556
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L006",
+    "status": "in_progress",
+    "watchDurationSec": 2280
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L007",
+    "status": "completed",
+    "watchDurationSec": 4692
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L008",
+    "status": "in_progress",
+    "watchDurationSec": 2076
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L009",
+    "status": "in_progress",
+    "watchDurationSec": 1608
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L010",
+    "status": "in_progress",
+    "watchDurationSec": 1758
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L011",
+    "status": "in_progress",
+    "watchDurationSec": 1890
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L012",
+    "status": "completed",
+    "watchDurationSec": 1710
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L013",
+    "status": "in_progress",
+    "watchDurationSec": 2052
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L014",
+    "status": "completed",
+    "watchDurationSec": 2202
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L015",
+    "status": "completed",
+    "watchDurationSec": 4752
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L016",
+    "status": "in_progress",
+    "watchDurationSec": 2226
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L017",
+    "status": "in_progress",
+    "watchDurationSec": 1938
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L018",
+    "status": "in_progress",
+    "watchDurationSec": 1494
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L019",
+    "status": "in_progress",
+    "watchDurationSec": 2766
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L020",
+    "status": "in_progress",
+    "watchDurationSec": 2136
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L021",
+    "status": "in_progress",
+    "watchDurationSec": 3276
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 1140
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L023",
+    "status": "completed",
+    "watchDurationSec": 3594
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L024",
+    "status": "in_progress",
+    "watchDurationSec": 2850
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L025",
+    "status": "in_progress",
+    "watchDurationSec": 2880
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L026",
+    "status": "in_progress",
+    "watchDurationSec": 2874
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L027",
+    "status": "in_progress",
+    "watchDurationSec": 1656
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L028",
+    "status": "in_progress",
+    "watchDurationSec": 1566
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L029",
+    "status": "in_progress",
+    "watchDurationSec": 1464
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L030",
+    "status": "completed",
+    "watchDurationSec": 3024
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L031",
+    "status": "completed",
+    "watchDurationSec": 3882
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L032",
+    "status": "completed",
+    "watchDurationSec": 3780
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L033",
+    "status": "in_progress",
+    "watchDurationSec": 2598
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L034",
+    "status": "in_progress",
+    "watchDurationSec": 1974
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L035",
+    "status": "in_progress",
+    "watchDurationSec": 2190
+  },
+  {
+    "studentId": "demo_S007",
+    "lectureId": "L036",
+    "status": "in_progress",
+    "watchDurationSec": 2082
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L001",
+    "status": "completed",
+    "watchDurationSec": 2454
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L002",
+    "status": "completed",
+    "watchDurationSec": 5166
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L003",
+    "status": "completed",
+    "watchDurationSec": 4920
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L004",
+    "status": "completed",
+    "watchDurationSec": 2604
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L005",
+    "status": "completed",
+    "watchDurationSec": 3036
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L006",
+    "status": "completed",
+    "watchDurationSec": 2544
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L007",
+    "status": "completed",
+    "watchDurationSec": 4764
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L008",
+    "status": "completed",
+    "watchDurationSec": 2268
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L009",
+    "status": "completed",
+    "watchDurationSec": 2100
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L010",
+    "status": "completed",
+    "watchDurationSec": 2400
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L011",
+    "status": "completed",
+    "watchDurationSec": 2670
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L012",
+    "status": "completed",
+    "watchDurationSec": 1704
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L013",
+    "status": "completed",
+    "watchDurationSec": 3300
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L014",
+    "status": "completed",
+    "watchDurationSec": 2442
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L015",
+    "status": "completed",
+    "watchDurationSec": 4830
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L016",
+    "status": "completed",
+    "watchDurationSec": 3000
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L017",
+    "status": "completed",
+    "watchDurationSec": 3138
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L018",
+    "status": "completed",
+    "watchDurationSec": 1794
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L019",
+    "status": "completed",
+    "watchDurationSec": 3324
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L020",
+    "status": "completed",
+    "watchDurationSec": 2454
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L021",
+    "status": "completed",
+    "watchDurationSec": 4500
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L022",
+    "status": "completed",
+    "watchDurationSec": 1770
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L023",
+    "status": "completed",
+    "watchDurationSec": 3600
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L024",
+    "status": "completed",
+    "watchDurationSec": 4182
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L025",
+    "status": "completed",
+    "watchDurationSec": 4500
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L026",
+    "status": "completed",
+    "watchDurationSec": 4500
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L027",
+    "status": "completed",
+    "watchDurationSec": 2676
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L028",
+    "status": "completed",
+    "watchDurationSec": 1956
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L029",
+    "status": "completed",
+    "watchDurationSec": 2256
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L030",
+    "status": "completed",
+    "watchDurationSec": 3090
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L031",
+    "status": "completed",
+    "watchDurationSec": 4374
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L032",
+    "status": "completed",
+    "watchDurationSec": 4134
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L033",
+    "status": "in_progress",
+    "watchDurationSec": 2790
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L034",
+    "status": "completed",
+    "watchDurationSec": 2700
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L035",
+    "status": "completed",
+    "watchDurationSec": 2796
+  },
+  {
+    "studentId": "demo_S008",
+    "lectureId": "L036",
+    "status": "completed",
+    "watchDurationSec": 3000
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L001",
+    "status": "in_progress",
+    "watchDurationSec": 1908
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L002",
+    "status": "in_progress",
+    "watchDurationSec": 3630
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L003",
+    "status": "in_progress",
+    "watchDurationSec": 3642
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L004",
+    "status": "completed",
+    "watchDurationSec": 2520
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 1824
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L006",
+    "status": "in_progress",
+    "watchDurationSec": 2052
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L007",
+    "status": "completed",
+    "watchDurationSec": 4506
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L008",
+    "status": "completed",
+    "watchDurationSec": 2214
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L009",
+    "status": "completed",
+    "watchDurationSec": 1926
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L010",
+    "status": "in_progress",
+    "watchDurationSec": 1776
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L011",
+    "status": "in_progress",
+    "watchDurationSec": 1782
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L012",
+    "status": "in_progress",
+    "watchDurationSec": 1494
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L013",
+    "status": "in_progress",
+    "watchDurationSec": 2406
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L014",
+    "status": "completed",
+    "watchDurationSec": 2190
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L015",
+    "status": "completed",
+    "watchDurationSec": 4458
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L016",
+    "status": "completed",
+    "watchDurationSec": 2712
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L017",
+    "status": "in_progress",
+    "watchDurationSec": 2616
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L018",
+    "status": "in_progress",
+    "watchDurationSec": 1542
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L019",
+    "status": "in_progress",
+    "watchDurationSec": 2772
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L020",
+    "status": "in_progress",
+    "watchDurationSec": 1860
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L021",
+    "status": "in_progress",
+    "watchDurationSec": 3462
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 1026
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L023",
+    "status": "completed",
+    "watchDurationSec": 3042
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L024",
+    "status": "completed",
+    "watchDurationSec": 3834
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L025",
+    "status": "in_progress",
+    "watchDurationSec": 3264
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L026",
+    "status": "in_progress",
+    "watchDurationSec": 2964
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L027",
+    "status": "in_progress",
+    "watchDurationSec": 2052
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L028",
+    "status": "completed",
+    "watchDurationSec": 1836
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L029",
+    "status": "in_progress",
+    "watchDurationSec": 1620
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L030",
+    "status": "in_progress",
+    "watchDurationSec": 2136
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L031",
+    "status": "in_progress",
+    "watchDurationSec": 3498
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L032",
+    "status": "completed",
+    "watchDurationSec": 3780
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L033",
+    "status": "completed",
+    "watchDurationSec": 2922
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L034",
+    "status": "completed",
+    "watchDurationSec": 2586
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L035",
+    "status": "in_progress",
+    "watchDurationSec": 2100
+  },
+  {
+    "studentId": "demo_S009",
+    "lectureId": "L036",
+    "status": "completed",
+    "watchDurationSec": 2634
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L001",
+    "status": "completed",
+    "watchDurationSec": 2160
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L002",
+    "status": "in_progress",
+    "watchDurationSec": 3870
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L003",
+    "status": "in_progress",
+    "watchDurationSec": 4038
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L004",
+    "status": "completed",
+    "watchDurationSec": 2376
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 2442
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L006",
+    "status": "completed",
+    "watchDurationSec": 2610
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L007",
+    "status": "in_progress",
+    "watchDurationSec": 3822
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L008",
+    "status": "completed",
+    "watchDurationSec": 2178
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L009",
+    "status": "in_progress",
+    "watchDurationSec": 1236
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L010",
+    "status": "in_progress",
+    "watchDurationSec": 1680
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L011",
+    "status": "completed",
+    "watchDurationSec": 2232
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L012",
+    "status": "in_progress",
+    "watchDurationSec": 1398
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L013",
+    "status": "in_progress",
+    "watchDurationSec": 2238
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L014",
+    "status": "in_progress",
+    "watchDurationSec": 1812
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L015",
+    "status": "completed",
+    "watchDurationSec": 4368
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L016",
+    "status": "in_progress",
+    "watchDurationSec": 2214
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L017",
+    "status": "in_progress",
+    "watchDurationSec": 2352
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L018",
+    "status": "in_progress",
+    "watchDurationSec": 1188
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L019",
+    "status": "completed",
+    "watchDurationSec": 3600
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L020",
+    "status": "in_progress",
+    "watchDurationSec": 1776
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L021",
+    "status": "completed",
+    "watchDurationSec": 3810
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 1272
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L023",
+    "status": "completed",
+    "watchDurationSec": 2910
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L024",
+    "status": "in_progress",
+    "watchDurationSec": 2550
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L025",
+    "status": "completed",
+    "watchDurationSec": 4032
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L026",
+    "status": "in_progress",
+    "watchDurationSec": 2796
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L027",
+    "status": "in_progress",
+    "watchDurationSec": 1878
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L028",
+    "status": "in_progress",
+    "watchDurationSec": 1518
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L029",
+    "status": "in_progress",
+    "watchDurationSec": 1536
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L030",
+    "status": "in_progress",
+    "watchDurationSec": 2640
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L031",
+    "status": "in_progress",
+    "watchDurationSec": 3540
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L032",
+    "status": "in_progress",
+    "watchDurationSec": 3240
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L033",
+    "status": "in_progress",
+    "watchDurationSec": 2226
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L034",
+    "status": "in_progress",
+    "watchDurationSec": 1914
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L035",
+    "status": "in_progress",
+    "watchDurationSec": 2250
+  },
+  {
+    "studentId": "demo_S010",
+    "lectureId": "L036",
+    "status": "in_progress",
+    "watchDurationSec": 1998
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L001",
+    "status": "completed",
+    "watchDurationSec": 2166
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L002",
+    "status": "in_progress",
+    "watchDurationSec": 3966
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L003",
+    "status": "in_progress",
+    "watchDurationSec": 4140
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L004",
+    "status": "completed",
+    "watchDurationSec": 2214
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 2112
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L006",
+    "status": "in_progress",
+    "watchDurationSec": 2130
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L007",
+    "status": "completed",
+    "watchDurationSec": 4398
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L008",
+    "status": "in_progress",
+    "watchDurationSec": 2010
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L009",
+    "status": "in_progress",
+    "watchDurationSec": 1380
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L010",
+    "status": "completed",
+    "watchDurationSec": 2004
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L011",
+    "status": "in_progress",
+    "watchDurationSec": 1782
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L012",
+    "status": "in_progress",
+    "watchDurationSec": 1374
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L013",
+    "status": "completed",
+    "watchDurationSec": 3102
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L014",
+    "status": "completed",
+    "watchDurationSec": 2244
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L015",
+    "status": "completed",
+    "watchDurationSec": 4632
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L016",
+    "status": "in_progress",
+    "watchDurationSec": 2256
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L017",
+    "status": "in_progress",
+    "watchDurationSec": 1938
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L018",
+    "status": "in_progress",
+    "watchDurationSec": 1386
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L019",
+    "status": "in_progress",
+    "watchDurationSec": 2538
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L020",
+    "status": "in_progress",
+    "watchDurationSec": 1776
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L021",
+    "status": "completed",
+    "watchDurationSec": 3780
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 1374
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L023",
+    "status": "in_progress",
+    "watchDurationSec": 2832
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L024",
+    "status": "completed",
+    "watchDurationSec": 3828
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L025",
+    "status": "in_progress",
+    "watchDurationSec": 3012
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L026",
+    "status": "in_progress",
+    "watchDurationSec": 3510
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L027",
+    "status": "in_progress",
+    "watchDurationSec": 2070
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L028",
+    "status": "completed",
+    "watchDurationSec": 1734
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L029",
+    "status": "in_progress",
+    "watchDurationSec": 1338
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L030",
+    "status": "in_progress",
+    "watchDurationSec": 2604
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L031",
+    "status": "in_progress",
+    "watchDurationSec": 2994
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L032",
+    "status": "completed",
+    "watchDurationSec": 4260
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L033",
+    "status": "in_progress",
+    "watchDurationSec": 2778
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L034",
+    "status": "in_progress",
+    "watchDurationSec": 1644
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L035",
+    "status": "in_progress",
+    "watchDurationSec": 1932
+  },
+  {
+    "studentId": "demo_S011",
+    "lectureId": "L036",
+    "status": "completed",
+    "watchDurationSec": 2580
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L001",
+    "status": "in_progress",
+    "watchDurationSec": 1746
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L002",
+    "status": "in_progress",
+    "watchDurationSec": 3936
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L003",
+    "status": "in_progress",
+    "watchDurationSec": 3924
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L004",
+    "status": "completed",
+    "watchDurationSec": 2238
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L005",
+    "status": "in_progress",
+    "watchDurationSec": 2652
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L006",
+    "status": "in_progress",
+    "watchDurationSec": 2034
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L007",
+    "status": "in_progress",
+    "watchDurationSec": 3432
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L008",
+    "status": "in_progress",
+    "watchDurationSec": 1902
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L009",
+    "status": "in_progress",
+    "watchDurationSec": 1668
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L010",
+    "status": "completed",
+    "watchDurationSec": 2118
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L011",
+    "status": "completed",
+    "watchDurationSec": 2340
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L012",
+    "status": "in_progress",
+    "watchDurationSec": 1320
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L013",
+    "status": "in_progress",
+    "watchDurationSec": 2586
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L014",
+    "status": "in_progress",
+    "watchDurationSec": 1752
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L015",
+    "status": "completed",
+    "watchDurationSec": 4542
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L016",
+    "status": "completed",
+    "watchDurationSec": 2664
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L017",
+    "status": "in_progress",
+    "watchDurationSec": 2796
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L018",
+    "status": "in_progress",
+    "watchDurationSec": 1428
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L019",
+    "status": "completed",
+    "watchDurationSec": 3024
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L020",
+    "status": "in_progress",
+    "watchDurationSec": 1818
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L021",
+    "status": "in_progress",
+    "watchDurationSec": 3108
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L022",
+    "status": "in_progress",
+    "watchDurationSec": 1194
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L023",
+    "status": "in_progress",
+    "watchDurationSec": 2550
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L024",
+    "status": "in_progress",
+    "watchDurationSec": 3180
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L025",
+    "status": "in_progress",
+    "watchDurationSec": 3402
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L026",
+    "status": "completed",
+    "watchDurationSec": 3654
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L027",
+    "status": "in_progress",
+    "watchDurationSec": 2022
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L028",
+    "status": "completed",
+    "watchDurationSec": 1824
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L029",
+    "status": "in_progress",
+    "watchDurationSec": 1914
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L030",
+    "status": "completed",
+    "watchDurationSec": 2886
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L031",
+    "status": "in_progress",
+    "watchDurationSec": 3480
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L032",
+    "status": "completed",
+    "watchDurationSec": 3726
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L033",
+    "status": "in_progress",
+    "watchDurationSec": 2616
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L034",
+    "status": "in_progress",
+    "watchDurationSec": 1896
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L035",
+    "status": "in_progress",
+    "watchDurationSec": 1746
+  },
+  {
+    "studentId": "demo_S012",
+    "lectureId": "L036",
+    "status": "in_progress",
+    "watchDurationSec": 2178
+  }
+]
