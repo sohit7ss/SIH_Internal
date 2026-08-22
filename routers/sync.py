@@ -30,3 +30,4 @@ def sync_push(batch: schemas.SyncBatch):
         "failed": len(results) - synced_count,
         "results": results
     }
+
